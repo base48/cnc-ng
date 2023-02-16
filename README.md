@@ -1,1 +1,1 @@
-![cnc](cnc.png "cnc desk")
+![](img/cnc.png)
